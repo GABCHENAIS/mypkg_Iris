@@ -3,6 +3,10 @@
 
 # mypkg
 
+``` r
+#this is a usuless proposal
+```
+
 <!-- badges: start -->
 
 <!-- badges: end -->
@@ -10,7 +14,9 @@
 The goal of `mypkg` is to learn how to create a package and how to use
 GitHub.
 
-I am making some changes in mu pkg.
+\<\<\<\<\<\<\< HEAD I want to create a conflict because I like arguing…
+======= I am making some changes in mu pkg. \>\>\>\>\>\>\>
+1bb9e4135e1f13faff97aec772ea0b7b27868947
 
 ## Installation
 
@@ -18,17 +24,25 @@ You can install the released version of mypkg\_Iris from
 [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
-install.packages("mypkg")
+```
+
+``` r
+#install.packages("mypkg")
 ```
 
 And the development version from [GitHub](https://github.com/) with:
 
 ``` r
-# install.packages("devtools")
-devtools::install_github("IrisGanser/mypkg_Iris")
 ```
 
 ## Example
+
+``` r
+# install.packages("devtools")
+devtools::install_github("IrisGanser/mypkg_Iris")
+#> Skipping install of 'mypkg' from a github remote, the SHA1 (f473d304) has not changed since last install.
+#>   Use `force = TRUE` to force installation
+```
 
 This is a basic example which shows you how to use the function `mylog`
 in `mypkg`:
