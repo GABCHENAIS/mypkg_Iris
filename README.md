@@ -10,7 +10,7 @@
 The goal of `mypkg` is to learn how to create a package and how to use
 GitHub.
 
-I want to create a conflict because I like arguing…
+I am making some changes in mu pkg.
 
 ## Installation
 

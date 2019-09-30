@@ -20,7 +20,11 @@ knitr::opts_chunk$set(
 
 The goal of `mypkg` is to learn how to create a package and how to use GitHub.
 
+<<<<<<< HEAD
 I want to create a conflict because I like arguing...
+=======
+I am making some changes in mu pkg.
+>>>>>>> 1bb9e4135e1f13faff97aec772ea0b7b27868947
 
 ## Installation
 
